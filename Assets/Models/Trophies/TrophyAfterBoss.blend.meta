@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 5ff995c6fc287c3488eddb9f4ab960cf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.R
+    100004: Armature.003
+    100006: Bone
+    100008: Bone.001
+    100010: Bone.005
+    100012: Camera
+    100014: Chest
+    100016: Circle.003
+    100018: Cube
+    100020: Cube.003
+    100022: ElbowControl.L
+    100024: ElbowControl.L_end
+    100026: ElbowControl.R
+    100028: ElbowControl.R_end
+    100030: Foot.L
+    100032: Foot.L_end
+    100034: Foot.R
+    100036: Foot.R_end
+    100038: Hand.L
+    100040: Hand.L_end
+    100042: Hand.R
+    100044: Hand.R_end
+    100046: HandControl.L
+    100048: HandControl.L_end
+    100050: HandControl.R
+    100052: HandControl.R_end
+    100054: Head
+    100056: Head_end
+    100058: KneeControl.L
+    100060: KneeControl.L_end
+    100062: KneeControl.R
+    100064: KneeControl.R_end
+    100066: Light
+    100068: LowerArm.L
+    100070: LowerArm.R
+    100072: LowerLeg.L
+    100074: LowerLeg.R
+    100076: LowerLegcONTROL.L
+    100078: LowerLegcONTROL.R
+    100080: //RootNode
+    100082: UpperArm.L
+    100084: UpperArm.R
+    100086: UpperBody
+    100088: UpperLeg.L
+    100090: UpperLeg.R
+    100092: WaistControl
+    400000: Arm.L
+    400002: Arm.R
+    400004: Armature.003
+    400006: Bone
+    400008: Bone.001
+    400010: Bone.005
+    400012: Camera
+    400014: Chest
+    400016: Circle.003
+    400018: Cube
+    400020: Cube.003
+    400022: ElbowControl.L
+    400024: ElbowControl.L_end
+    400026: ElbowControl.R
+    400028: ElbowControl.R_end
+    400030: Foot.L
+    400032: Foot.L_end
+    400034: Foot.R
+    400036: Foot.R_end
+    400038: Hand.L
+    400040: Hand.L_end
+    400042: Hand.R
+    400044: Hand.R_end
+    400046: HandControl.L
+    400048: HandControl.L_end
+    400050: HandControl.R
+    400052: HandControl.R_end
+    400054: Head
+    400056: Head_end
+    400058: KneeControl.L
+    400060: KneeControl.L_end
+    400062: KneeControl.R
+    400064: KneeControl.R_end
+    400066: Light
+    400068: LowerArm.L
+    400070: LowerArm.R
+    400072: LowerLeg.L
+    400074: LowerLeg.R
+    400076: LowerLegcONTROL.L
+    400078: LowerLegcONTROL.R
+    400080: //RootNode
+    400082: UpperArm.L
+    400084: UpperArm.R
+    400086: UpperBody
+    400088: UpperLeg.L
+    400090: UpperLeg.R
+    400092: WaistControl
+    2000000: Camera
+    2100000: Material
+    2100002: Cape.006
+    2100004: No Name
+    2300000: Circle.003
+    2300002: Cube
+    3300000: Circle.003
+    3300002: Cube
+    4300000: Cube
+    4300002: Circle.003
+    4300004: Cube.003
+    7400000: Armature.003|Armature.003Action.001
+    9500000: //RootNode
+    10800000: Light
+    13700000: Cube.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
